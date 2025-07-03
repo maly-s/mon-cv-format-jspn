@@ -1,0 +1,48 @@
+{
+  "Nom": "SVONGCHAN",
+  "Prenom": "Maly",
+  "Age": "31 ans",
+  "Email": "@icloud.com",
+  "Téléphone": "06XXXXXXXX",
+  "Adresse": "69100 Villeurbanne",
+  "formations": [
+    {
+      "nom": "ISTQB formation Testeuse Logiciel",
+      "ecole": "Campus Région du Numérique",
+      "dateDebut": "2025-05-12",
+      "dateFin": "en cours"
+    },
+    {
+      "nom": "CAP employée de vente spécialisée",
+      "ecole": "Lycée Japy",
+      "dateDebut": "2012-10-01",
+      "dateFin": "2013-07-01"
+    },
+    {
+      "nom": "BEPA Service à la personne",
+      "ecole": "Lycée le Puits de l'Aune",
+      "dateDebut": "2010-10-01",
+      "dateFin": "2012-07-01"
+    }
+  ],
+  "experiences": [
+    {
+      "titre": "Réserviste",
+      "entreprise": "Naf Naf",
+      "periode": "2022-2023",
+      "description": "Traitement de la livraison"
+    },
+    {
+      "titre": "Assistante opératrice logistique",
+      "entreprise": "Zara",
+      "periode": "2022",
+      "description": "Management"
+    },
+    {
+      "titre": "Opératrice logistique",
+      "entreprise": "Zara",
+      "periode": "2015-2022",
+      "description": "Traitement de la livraison"
+    }
+  ]
+}
